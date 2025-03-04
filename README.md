@@ -131,3 +131,7 @@ I thrive on writing clean, efficient, and optimized code, continuously refining 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00,ff6347,ff1493,ba55d3,8a2be2&height=100&section=footer"/>
+</p>
