@@ -33,7 +33,7 @@
     <a href="https://nisan24.vercel.app/" target="_blank" style="text-decoration: none;"> 
         <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/🌐%20Portfolio-0080FE?style=for-the-badge&logo=codepen&logoColor=white&labelColor=007BFF&color=000" style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/> 
     </a> 
-    <a href="https://nisan24.vercel.app/src/image/Nisan%20Hossain%20-%20Software%20Engineer-Resume.pdf" target="_blank" style="text-decoration: none;"> 
+    <a href="https://drive.google.com/file/d/1Sh-XlcuGAJuN25FrUdij-X09FCvxZ8uy/view?usp=drive_link" target="_blank" style="text-decoration: none;"> 
         <img alt="Resume" title="Resume" src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/> 
     </a> 
 </div><br>
