@@ -42,7 +42,7 @@
 
 🚀 <b>Competitive Programming Enthusiast –</b> Solving complex problems is my passion! Over the past year, I have tackled <b>500+ challenges</b> across multiple platforms:
 
-✨ <b>Codeforces: </b>Solved <b>300+ problems,</b> with a peak rating of <b>1062.</b> <br>
+✨ <b>Codeforces: </b>Solved <b>400+ problems,</b> with a peak rating of <b>1062.</b> <br>
 🏆<b> CodeChef:</b> 2-Star Coder, highest rating<b> 1441</b>.
 
 I thrive on writing clean, efficient, and optimized code, continuously refining my skills and learning new problem-solving techniques.<b> The grind never stops!</b> 🔥
