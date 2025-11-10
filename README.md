@@ -38,19 +38,29 @@
     </a> 
 </div><br>
 
-🔥 <b>I’m a passionate Software Engineer and Python Developer</b> with deep expertise in <b>backend architecture</b> and <b>Django REST Framework (DRF)</b>, crafting secure, scalable, and performance-driven APIs that power real-world applications.
+<div style="font-size: 18px; line-height: 1.7; font-family: 'Segoe UI', Arial, sans-serif; color: #1C1C1C;">
 
-🚀 <b>Competitive Programming Enthusiast —</b> I thrive on solving complex algorithmic challenges and optimizing logic under pressure. With <b>820+ problems solved</b> across multiple platforms, I’ve built a strong foundation in analytical thinking, efficiency, and problem-solving precision.
+🔥 <b style="font-size: 20px;">I’m a passionate Software Engineer and Python Developer</b> with deep expertise in <b>Backend Architecture</b> and <b>Django REST Framework (DRF)</b> — crafting secure, scalable, and high-performance APIs that power real-world applications.  
+
+<br>
+
+🚀 <b style="font-size: 19px;">Competitive Programming Enthusiast —</b> I thrive on solving complex algorithmic challenges and optimizing logic under pressure. With <b>820+ problems solved</b> across multiple platforms, I’ve developed strong analytical thinking, efficiency, and problem-solving precision.  
+
+<br><br>
 
 ✨ <b>Codeforces:</b> Solved <b>420+ problems</b> | Peak Rating: <b>1062</b> <br>
-🏆 <b>CodeChef:</b> 2★ Coder | Highest Rating: <b>1441</b> <br>
+🏆 <b>CodeChef:</b> <b>2★ Coder</b> | Highest Rating: <b>1441</b> <br>
 💡 <b>LeetCode:</b> Solved <b>150+ problems</b> covering diverse DSA patterns <br>
-⚔️ <b>Vjudge:</b> Solved <b>135+ topic-based & contest problems</b> through weekly institutional practice sessions
+⚔️ <b>Vjudge:</b> Solved <b>135+ topic-based & contest problems</b> through weekly institutional practice sessions  
 
-I love writing clean, efficient, and optimized code — and continuously learning new techniques to improve system performance and scalability.  
-<b>The grind never stops!</b> 🔥
+<br>
 
-<h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">⚜️ My Competitive Programming Profiles ⚜️</h4> 
+💻 I’m deeply focused on writing <b>clean, efficient, and optimized code</b> — always learning new techniques to improve <b>system performance and scalability</b>.  
+🔥 <b style="font-size: 19px;">The grind never stops!</b>  
+</div>
+
+
+<h2 style="color: #2C3E50">⚜️ My Competitive Programming Profiles ⚜️</h2> 
 <div align="center" style="margin: 20px 0;"> 
     <a href="https://www.leetcode.com/nisan24/" target="_blank" style="text-decoration: none;"> 
         <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=000&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="LeetCode Logo" /> 
@@ -67,7 +77,7 @@ I love writing clean, efficient, and optimized code — and continuously learnin
 
 </div>
 
-<h3> ⚙️ Languages and Tools </h3> 
+<h2> ⚙️ Languages and Tools </h2> 
 <div align="center"> 
     <table style="border-collapse: collapse; width: 90%; max-width: 1000px; margin: 0 auto; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
         <tr style="background-color: #f4f4f9; font-weight: bold; text-align: center;">
