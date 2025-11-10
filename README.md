@@ -38,14 +38,17 @@
     </a> 
 </div><br>
 
-🔥 <b>I’m a Software Engineer and Python Developer</b> with a strong emphasis on <b>backend development</b>, specializing in <b>Django REST Framework</b> to build scalable and efficient APIs.
+🔥 <b>I’m a passionate Software Engineer and Python Developer</b> with deep expertise in <b>backend architecture</b> and <b>Django REST Framework (DRF)</b>, crafting secure, scalable, and performance-driven APIs that power real-world applications.
 
-🚀 <b>Competitive Programming Enthusiast –</b> Solving complex problems is my passion! Over the past year, I have tackled <b>500+ challenges</b> across multiple platforms:
+🚀 <b>Competitive Programming Enthusiast —</b> I thrive on solving complex algorithmic challenges and optimizing logic under pressure. With <b>820+ problems solved</b> across multiple platforms, I’ve built a strong foundation in analytical thinking, efficiency, and problem-solving precision.
 
-✨ <b>Codeforces: </b>Solved <b>400+ problems,</b> with a peak rating of <b>1062.</b> <br>
-🏆<b> CodeChef:</b> 2-Star Coder, highest rating<b> 1441</b>.
+✨ <b>Codeforces:</b> Solved <b>420+ problems</b> | Peak Rating: <b>1062</b> <br>
+🏆 <b>CodeChef:</b> 2★ Coder | Highest Rating: <b>1441</b> <br>
+💡 <b>LeetCode:</b> Solved <b>150+ problems</b> covering diverse DSA patterns <br>
+⚔️ <b>Vjudge:</b> Solved <b>135+ topic-based & contest problems</b> through weekly institutional practice sessions
 
-I thrive on writing clean, efficient, and optimized code, continuously refining my skills and learning new problem-solving techniques.<b> The grind never stops!</b> 🔥
+I love writing clean, efficient, and optimized code — and continuously learning new techniques to improve system performance and scalability.  
+<b>The grind never stops!</b> 🔥
 
 <h4 style="color: #2C3E50; text-align: center; font-family: 'Arial', sans-serif;">⚜️ My Competitive Programming Profiles ⚜️</h4> 
 <div align="center" style="margin: 20px 0;"> 
@@ -55,13 +58,15 @@ I thrive on writing clean, efficient, and optimized code, continuously refining 
     <a href="https://www.codeforces.com/profile/nisan24" target="_blank" style="text-decoration: none;"> 
         <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=2B2B2B&logoColor=FFFFFF&labelColor=4A4A4A&style=for-the-badge" alt="Codeforces Logo" /> 
     </a> 
+      <a href="https://www.codechef.com/users/nisan24" target="_blank" style="text-decoration: none;"> 
+        <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="CodeChef Logo" /> 
+    </a> 
     <a href="https://www.hackerrank.com/nisan24/" target="_blank" style="text-decoration: none;"> 
         <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=00B48A&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="HackerRank Logo" /> 
     </a> 
-    <a href="https://stackoverflow.com/users/23257459/nisan24" target="_blank" style="text-decoration: none;"> 
-        <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=4A4A4A&style=for-the-badge" alt="StackOverflow Logo" /> 
-    </a> 
+
 </div>
+
 <h3> ⚙️ Languages and Tools </h3> 
 <div align="center"> 
     <table style="border-collapse: collapse; width: 90%; max-width: 1000px; margin: 0 auto; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
