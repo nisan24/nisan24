@@ -46,7 +46,7 @@
 
 🚀 <b style="font-size: 19px;">Competitive Programming Enthusiast —</b> I thrive on solving complex algorithmic challenges and optimizing logic under pressure. With <b>820+ problems solved</b> across multiple platforms, I’ve developed strong analytical thinking, efficiency, and problem-solving precision.  
 
-<br><br>
+<br>
 
 ✨ <b>Codeforces:</b> Solved <b>420+ problems</b> | Peak Rating: <b>1062</b> <br>
 🏆 <b>CodeChef:</b> <b>2★ Coder</b> | Highest Rating: <b>1441</b> <br>
