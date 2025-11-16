@@ -36,6 +36,17 @@
     <a href="https://drive.google.com/file/d/1Sh-XlcuGAJuN25FrUdij-X09FCvxZ8uy/view?usp=drive_link" target="_blank" style="text-decoration: none;"> 
         <img alt="Resume" title="Resume" target="_blank" src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=D50000&color=fff" style="margin: 10px; border-radius: 8px; transition: transform 0.3s;"/> 
     </a> 
+<a href="https://drive.google.com/file/d/1uaT0SoGFMQ-Yu62giHPZjN00S9rezq08/view?usp=sharing" 
+   target="_blank" style="text-decoration: none;">
+    <img alt="Get CV" title="Get CV"
+         src="https://img.shields.io/badge/Get%20CV-000000?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=2B2B2B&color=000000"
+         style="margin: 10px; border-radius: 8px; transition: transform 0.3s;">
+</a>
+
+
+
+
+
 </div><br>
 
 <div style="font-size: 18px; line-height: 1.7; font-family: 'Segoe UI', Arial, sans-serif; color: #1C1C1C;">
