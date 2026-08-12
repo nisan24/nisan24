@@ -49,25 +49,29 @@
 
 </div><br>
 
-<div style="font-size: 18px; line-height: 1.7; font-family: 'Segoe UI', Arial, sans-serif; color: #1C1C1C;">
+<div>
+  <p>
+    🔥 <strong>I’m Md. Nisan Hossain</strong> (known online as <strong>nisan24</strong>), a passionate <strong>Backend Software Engineer</strong> and <strong>Python Developer</strong> specializing in <strong>Backend Architecture</strong> and <strong>Django REST Framework (DRF)</strong> — crafting secure, scalable, and high-performance REST APIs.
+  </p>
 
-🔥 <b style="font-size: 20px;">I’m a passionate Software Engineer and Python Developer</b> with deep expertise in <b>Backend Architecture</b> and <b>Django REST Framework (DRF)</b> — crafting secure, scalable, and high-performance APIs that power real-world applications.  
+  <p>
+    🚀 <strong>Competitive Programming Enthusiast:</strong> I thrive on solving complex algorithmic challenges and optimizing space-time complexity under pressure. With <strong>840+ problems solved</strong> across platforms, I've developed strong analytical skills and logic precision.
+  </p>
 
-<br>
+  <ul>
+    <li>✨ <strong>Codeforces:</strong> Solved <strong>420+ problems</strong> | Peak Rating: <strong>1062</strong></li>
+    <li>🏆 <strong>CodeChef:</strong> <strong>2★ Coder</strong> | Highest Rating: <strong>1441</strong></li>
+    <li>💡 <strong>LeetCode:</strong> Solved <strong>150+ problems</strong> covering core DSA patterns</li>
+    <li>⚔️ <strong>VJudge:</strong> Solved <strong>135+ topic-based & contest problems</strong></li>
+  </ul>
 
-🚀 <b style="font-size: 19px;">Competitive Programming Enthusiast —</b> I thrive on solving complex algorithmic challenges and optimizing logic under pressure. With <b>820+ problems solved</b> across multiple platforms, I’ve developed strong analytical thinking, efficiency, and problem-solving precision.  
+  <p>
+    💻 Deeply focused on writing <strong>clean, efficient, and maintainable code</strong> — continuously exploring system optimization and database performance.
+  </p>
 
-<br>
-
-✨ <b>Codeforces:</b> Solved <b>420+ problems</b> | Peak Rating: <b>1062</b> <br>
-🏆 <b>CodeChef:</b> <b>2★ Coder</b> | Highest Rating: <b>1441</b> <br>
-💡 <b>LeetCode:</b> Solved <b>150+ problems</b> covering diverse DSA patterns <br>
-⚔️ <b>Vjudge:</b> Solved <b>135+ topic-based & contest problems</b> through weekly institutional practice sessions  
-
-<br>
-
-💻 I’m deeply focused on writing <b>clean, efficient, and optimized code</b> — always learning new techniques to improve <b>system performance and scalability</b>.  
-🔥 <b style="font-size: 19px;">The grind never stops!</b>  
+  <p>
+    🔥 <em>The grind never stops!</em>
+  </p>
 </div>
 
 
@@ -152,6 +156,39 @@
     </tr> 
   </table> 
 </div>
+
+<h2>📫 Let's Connect</h2>
+
+<p align="center">
+  Open to connecting, collaborating, and discussing <strong>Backend Engineering, Python, Django, REST APIs, Database Design, Performance Optimization</strong>, and <strong>Competitive Programming</strong>.
+</p>
+
+<p align="center">
+  <a href="https://nisan24.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-nisan24.vercel.app-0080FE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Md. Nisan Hossain Official Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/nisan24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nisan24-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Md. Nisan Hossain LinkedIn Profile">
+  </a>
+  <a href="mailto:nisanhossain76@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nisanhossain76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md. Nisan Hossain">
+  </a>
+  <a href="https://linktr.ee/nisan24" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-nisan24-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Md. Nisan Hossain Links">
+  </a>
+</p>
+
+<p align="center">
+  <sub style="color: #8b949e;">
+    <strong>Md. Nisan Hossain</strong> (also known as <em>Nisan Hossain</em> / <em>nisan24</em>) · Backend Software Engineer · Python & Django Specialist
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <em>Building scalable backends, solving challenging problems, and continuously growing as a software engineer.</em>
+</p>
 
 ## 🎯 Random Dev Quote:
 <div align="center">
