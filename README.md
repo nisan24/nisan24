@@ -61,7 +61,7 @@
   <ul>
     <li>✨ <strong>Codeforces:</strong> Solved <strong>420+ problems</strong> | Peak Rating: <strong>1062</strong></li>
     <li>🏆 <strong>CodeChef:</strong> <strong>2★ Coder</strong> | Highest Rating: <strong>1441</strong></li>
-    <li>💡 <strong>LeetCode:</strong> Solved <strong>150+ problems</strong> covering core DSA patterns</li>
+    <li>💡 <strong>LeetCode:</strong> Solved <strong>210+ problems</strong> covering core DSA patterns</li>
     <li>⚔️ <strong>VJudge:</strong> Solved <strong>135+ topic-based & contest problems</strong></li>
   </ul>
 
